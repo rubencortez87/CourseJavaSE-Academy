@@ -7,6 +7,9 @@ This is my repository for the course of Java Standar Edition with all the excerc
 IntelliJ IDe
 java SDK 11
 
+### Version
+1.0
+
 ### Author
 Ruben Cortez
 
